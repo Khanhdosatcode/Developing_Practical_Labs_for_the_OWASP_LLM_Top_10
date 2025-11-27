@@ -1,2 +1,1 @@
-# Research-Large-Language-Model-Vulnerability
-Research Large Language Model Vulnerability
+Sẽ cập nhật trong đầu tháng 12 
